@@ -30,7 +30,7 @@ To get a local copy of this project on your computer, you have several options:
 
 After you've obtained a local copy of the project, open the project folder and follow these steps:
 
-1. Open the `index.html` file in your web browser to view the portfolio website.
+1. Open the `index.html` inside the j_portfolio folder in your web browser to view the portfolio website.
 
 2. You can make changes or customize the project to your liking.
 
