@@ -1,6 +1,7 @@
+ I am glad you are here, follow the steps below in order to access all the folders and files.
 # General Portfolio Project
 
-I am glad you are here. You can view the live site at [Link to Your Live Portfolio](https://serene-cascaron-3f9576.netlify.app/).
+ You can view the live site at [Link to Your Live Portfolio](https://serene-cascaron-3f9576.netlify.app/).
 
 ## How to Use
 
