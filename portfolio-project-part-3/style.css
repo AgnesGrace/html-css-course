@@ -1,0 +1,41 @@
+h1,
+h2,
+p,
+h3,
+li {
+  font-family: sans-serif;
+}
+h1 {
+  color: blue;
+  font-size: 32px;
+  font-style: italic;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+h2 {
+  font-size: 30px;
+  color: green;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.7;
+}
+h3 {
+  text-align: center;
+}
+ul {
+  list-style: none;
+}
+
+li {
+  font-size: 18px;
+}
+
+.sub-text strong {
+  color: green;
+}
+.text-description {
+  line-height: 1.7;
+  font-size: 30px;
+}
